@@ -1,0 +1,24 @@
+{
+  "name": "osoc-github-workshop",
+  "version": "1.0.0",
+  "description": "This repository will be used to demonstrate the GitHub flow to the participants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmepraksh/OSoC-Github-Workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/itsmepraksh/OSoC-Github-Workshop/issues"
+  },
+  "homepage": "https://github.com/itsmepraksh/OSoC-Github-Workshop#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
